@@ -1,0 +1,2 @@
+1. Creating REST API with Spring Boot is very easy.we do not need to focus on anything, just focus on the business logic. We do not configure any Spring bean or any XML at all.
+2. To find out if a specific thing is on auto-configured or not, another way to do that just go to /actuator/beans and see if a specific ben is configured or not.
